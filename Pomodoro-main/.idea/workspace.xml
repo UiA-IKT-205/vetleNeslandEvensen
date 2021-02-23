@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="77751d07-9595-4bba-a3ba-6e25a1848b11" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/Pomodoro-main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pomodoro-main/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pomodoro-main/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pomodoro-main/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pomodoro-main/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pomodoro-main/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pomodoro-main/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pomodoro-main/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pomodoro-main/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pomodoro-main/app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pomodoro-main/app/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pomodoro-main/app/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pomodoro-main/app/src/androidTest/java/no/uia/ikt205/pomodoro/ExampleInstrumentedTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pomodoro-main/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pomodoro-main/app/src/main/java/no/uia/ikt205/pomodoro/MainActivity.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pomodoro-main/app/src/main/java/no/uia/ikt205/pomodoro/util/Time.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pomodoro-main/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pomodoro-main/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pomodoro-main/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pomodoro-main/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pomodoro-main/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pomodoro-main/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pomodoro-main/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pomodoro-main/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pomodoro-main/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pomodoro-main/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pomodoro-main/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pomodoro-main/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pomodoro-main/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pomodoro-main/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pomodoro-main/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pomodoro-main/app/src/main/res/values-night/themes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pomodoro-main/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pomodoro-main/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pomodoro-main/app/src/main/res/values/themes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pomodoro-main/app/src/test/java/no/uia/ikt205/pomodoro/ExampleUnitTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pomodoro-main/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pomodoro-main/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pomodoro-main/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pomodoro-main/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pomodoro-main/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pomodoro-main/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pomodoro-main/settings.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MainActivity.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Piano/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Piano/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pomodoro/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pomodoro/Pomodoro-main (1)/Pomodoro-main/.gradle/6.7.1/executionHistory/executionHistory.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pomodoro/Pomodoro-main (1)/Pomodoro-main/.gradle/6.7.1/fileChanges/last-build.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pomodoro/Pomodoro-main (1)/Pomodoro-main/.gradle/6.7.1/fileHashes/fileHashes.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pomodoro/Pomodoro-main (1)/Pomodoro-main/.gradle/6.7.1/fileHashes/fileHashes.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pomodoro/Pomodoro-main (1)/Pomodoro-main/.gradle/6.7.1/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pomodoro/Pomodoro-main (1)/Pomodoro-main/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pomodoro/Pomodoro-main (1)/Pomodoro-main/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pomodoro/Pomodoro-main (1)/Pomodoro-main/.gradle/checksums/checksums.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pomodoro/Pomodoro-main (1)/Pomodoro-main/.gradle/configuration-cache/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pomodoro/Pomodoro-main (1)/Pomodoro-main/.gradle/vcs-1/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pomodoro/Pomodoro-main (1)/Pomodoro-main/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pomodoro/Pomodoro-main (1)/Pomodoro-main/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pomodoro/Pomodoro-main (1)/Pomodoro-main/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pomodoro/Pomodoro-main (1)/Pomodoro-main/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pomodoro/Pomodoro-main (1)/Pomodoro-main/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pomodoro/Pomodoro-main (1)/Pomodoro-main/.idea/libraries/Gradle__androidx_activity_activity_1_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pomodoro/Pomodoro-main (1)/Pomodoro-main/.idea/libraries/Gradle__androidx_annotation_annotation_1_1_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pomodoro/Pomodoro-main (1)/Pomodoro-main/.idea/libraries/Gradle__androidx_annotation_annotation_experimental_1_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pomodoro/Pomodoro-main (1)/Pomodoro-main/.idea/libraries/Gradle__androidx_appcompat_appcompat_1_2_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pomodoro/Pomodoro-main (1)/Pomodoro-main/.idea/libraries/Gradle__androidx_appcompat_appcompat_resources_1_2_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pomodoro/Pomodoro-main (1)/Pomodoro-main/.idea/libraries/Gradle__androidx_arch_core_core_common_2_1_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pomodoro/Pomodoro-main (1)/Pomodoro-main/.idea/libraries/Gradle__androidx_arch_core_core_runtime_2_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pomodoro/Pomodoro-main (1)/Pomodoro-main/.idea/libraries/Gradle__androidx_cardview_cardview_1_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pomodoro/Pomodoro-main (1)/Pomodoro-main/.idea/libraries/Gradle__androidx_collection_collection_1_1_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pomodoro/Pomodoro-main (1)/Pomodoro-main/.idea/libraries/Gradle__androidx_constraintlayout_constraintlayout_2_0_4_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pomodoro/Pomodoro-main (1)/Pomodoro-main/.idea/libraries/Gradle__androidx_constraintlayout_constraintlayout_solver_2_0_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pomodoro/Pomodoro-main (1)/Pomodoro-main/.idea/libraries/Gradle__androidx_coordinatorlayout_coordinatorlayout_1_1_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pomodoro/Pomodoro-main (1)/Pomodoro-main/.idea/libraries/Gradle__androidx_core_core_1_3_2_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pomodoro/Pomodoro-main (1)/Pomodoro-main/.idea/libraries/Gradle__androidx_core_core_ktx_1_3_2_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pomodoro/Pomodoro-main (1)/Pomodoro-main/.idea/libraries/Gradle__androidx_cursoradapter_cursoradapter_1_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pomodoro/Pomodoro-main (1)/Pomodoro-main/.idea/libraries/Gradle__androidx_customview_customview_1_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pomodoro/Pomodoro-main (1)/Pomodoro-main/.idea/libraries/Gradle__androidx_drawerlayout_drawerlayout_1_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pomodoro/Pomodoro-main (1)/Pomodoro-main/.idea/libraries/Gradle__androidx_fragment_fragment_1_1_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pomodoro/Pomodoro-main (1)/Pomodoro-main/.idea/libraries/Gradle__androidx_interpolator_interpolator_1_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pomodoro/Pomodoro-main (1)/Pomodoro-main/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_common_2_1_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pomodoro/Pomodoro-main (1)/Pomodoro-main/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_livedata_2_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pomodoro/Pomodoro-main (1)/Pomodoro-main/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_livedata_core_2_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pomodoro/Pomodoro-main (1)/Pomodoro-main/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_runtime_2_1_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pomodoro/Pomodoro-main (1)/Pomodoro-main/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_viewmodel_2_1_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pomodoro/Pomodoro-main (1)/Pomodoro-main/.idea/libraries/Gradle__androidx_loader_loader_1_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pomodoro/Pomodoro-main (1)/Pomodoro-main/.idea/libraries/Gradle__androidx_recyclerview_recyclerview_1_1_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pomodoro/Pomodoro-main (1)/Pomodoro-main/.idea/libraries/Gradle__androidx_savedstate_savedstate_1_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pomodoro/Pomodoro-main (1)/Pomodoro-main/.idea/libraries/Gradle__androidx_test_core_1_3_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pomodoro/Pomodoro-main (1)/Pomodoro-main/.idea/libraries/Gradle__androidx_test_espresso_espresso_core_3_3_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pomodoro/Pomodoro-main (1)/Pomodoro-main/.idea/libraries/Gradle__androidx_test_espresso_espresso_idling_resource_3_3_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pomodoro/Pomodoro-main (1)/Pomodoro-main/.idea/libraries/Gradle__androidx_test_ext_junit_1_1_2_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pomodoro/Pomodoro-main (1)/Pomodoro-main/.idea/libraries/Gradle__androidx_test_monitor_1_3_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pomodoro/Pomodoro-main (1)/Pomodoro-main/.idea/libraries/Gradle__androidx_test_runner_1_3_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pomodoro/Pomodoro-main (1)/Pomodoro-main/.idea/libraries/Gradle__androidx_transition_transition_1_2_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pomodoro/Pomodoro-main (1)/Pomodoro-main/.idea/libraries/Gradle__androidx_vectordrawable_vectordrawable_1_1_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pomodoro/Pomodoro-main (1)/Pomodoro-main/.idea/libraries/Gradle__androidx_vectordrawable_vectordrawable_animated_1_1_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pomodoro/Pomodoro-main (1)/Pomodoro-main/.idea/libraries/Gradle__androidx_versionedparcelable_versionedparcelable_1_1_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pomodoro/Pomodoro-main (1)/Pomodoro-main/.idea/libraries/Gradle__androidx_viewpager2_viewpager2_1_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pomodoro/Pomodoro-main (1)/Pomodoro-main/.idea/libraries/Gradle__androidx_viewpager_viewpager_1_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pomodoro/Pomodoro-main (1)/Pomodoro-main/.idea/libraries/Gradle__com_google_android_material_material_1_2_1_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pomodoro/Pomodoro-main (1)/Pomodoro-main/.idea/libraries/Gradle__com_google_code_findbugs_jsr305_2_0_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pomodoro/Pomodoro-main (1)/Pomodoro-main/.idea/libraries/Gradle__com_squareup_javawriter_2_1_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pomodoro/Pomodoro-main (1)/Pomodoro-main/.idea/libraries/Gradle__javax_inject_javax_inject_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pomodoro/Pomodoro-main (1)/Pomodoro-main/.idea/libraries/Gradle__junit_junit_4_12.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pomodoro/Pomodoro-main (1)/Pomodoro-main/.idea/libraries/Gradle__junit_junit_4_13_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pomodoro/Pomodoro-main (1)/Pomodoro-main/.idea/libraries/Gradle__org_hamcrest_hamcrest_core_1_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pomodoro/Pomodoro-main (1)/Pomodoro-main/.idea/libraries/Gradle__org_hamcrest_hamcrest_integration_1_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pomodoro/Pomodoro-main (1)/Pomodoro-main/.idea/libraries/Gradle__org_hamcrest_hamcrest_library_1_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pomodoro/Pomodoro-main (1)/Pomodoro-main/.idea/libraries/Gradle__org_jetbrains_annotations_13_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pomodoro/Pomodoro-main (1)/Pomodoro-main/.idea/libraries/Gradle__org_jetbrains_kotlin_kotlin_stdlib_1_4_20.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pomodoro/Pomodoro-main (1)/Pomodoro-main/.idea/libraries/Gradle__org_jetbrains_kotlin_kotlin_stdlib_common_1_4_20.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pomodoro/Pomodoro-main (1)/Pomodoro-main/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pomodoro/Pomodoro-main (1)/Pomodoro-main/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pomodoro/Pomodoro-main (1)/Pomodoro-main/.idea/modules/Pomodoro.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pomodoro/Pomodoro-main (1)/Pomodoro-main/.idea/modules/app/Pomodoro.app.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pomodoro/Pomodoro-main (1)/Pomodoro-main/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pomodoro/Pomodoro-main (1)/Pomodoro-main/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pomodoro/Pomodoro-main (1)/Pomodoro-main/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pomodoro/Pomodoro-main (1)/Pomodoro-main/app/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pomodoro/Pomodoro-main (1)/Pomodoro-main/app/proguard-rules.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pomodoro/Pomodoro-main (1)/Pomodoro-main/app/src/androidTest/java/no/uia/ikt205/pomodoro/ExampleInstrumentedTest.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pomodoro/Pomodoro-main (1)/Pomodoro-main/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pomodoro/Pomodoro-main (1)/Pomodoro-main/app/src/main/java/no/uia/ikt205/pomodoro/MainActivity.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pomodoro/Pomodoro-main (1)/Pomodoro-main/app/src/main/java/no/uia/ikt205/pomodoro/util/Time.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pomodoro/Pomodoro-main (1)/Pomodoro-main/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pomodoro/Pomodoro-main (1)/Pomodoro-main/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pomodoro/Pomodoro-main (1)/Pomodoro-main/app/src/main/res/layout/activity_main.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pomodoro/Pomodoro-main (1)/Pomodoro-main/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pomodoro/Pomodoro-main (1)/Pomodoro-main/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pomodoro/Pomodoro-main (1)/Pomodoro-main/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pomodoro/Pomodoro-main (1)/Pomodoro-main/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pomodoro/Pomodoro-main (1)/Pomodoro-main/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pomodoro/Pomodoro-main (1)/Pomodoro-main/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pomodoro/Pomodoro-main (1)/Pomodoro-main/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pomodoro/Pomodoro-main (1)/Pomodoro-main/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pomodoro/Pomodoro-main (1)/Pomodoro-main/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pomodoro/Pomodoro-main (1)/Pomodoro-main/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pomodoro/Pomodoro-main (1)/Pomodoro-main/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pomodoro/Pomodoro-main (1)/Pomodoro-main/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pomodoro/Pomodoro-main (1)/Pomodoro-main/app/src/main/res/values-night/themes.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pomodoro/Pomodoro-main (1)/Pomodoro-main/app/src/main/res/values/colors.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pomodoro/Pomodoro-main (1)/Pomodoro-main/app/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pomodoro/Pomodoro-main (1)/Pomodoro-main/app/src/main/res/values/themes.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pomodoro/Pomodoro-main (1)/Pomodoro-main/app/src/test/java/no/uia/ikt205/pomodoro/ExampleUnitTest.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pomodoro/Pomodoro-main (1)/Pomodoro-main/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pomodoro/Pomodoro-main (1)/Pomodoro-main/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pomodoro/Pomodoro-main (1)/Pomodoro-main/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pomodoro/Pomodoro-main (1)/Pomodoro-main/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pomodoro/Pomodoro-main (1)/Pomodoro-main/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pomodoro/Pomodoro-main (1)/Pomodoro-main/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pomodoro/Pomodoro-main (1)/Pomodoro-main/local.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pomodoro/Pomodoro-main (1)/Pomodoro-main/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pomodoro/Pomodoro-main/.idea/Pomodoro-main.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pomodoro/Pomodoro-main/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pomodoro/Pomodoro-main/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pomodoro/Pomodoro-main/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pomodoro/Pomodoro-main/Pomodoro-main/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pomodoro/Pomodoro-main/Pomodoro-main/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pomodoro/Pomodoro-main/Pomodoro-main/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pomodoro/Pomodoro-main/Pomodoro-main/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pomodoro/Pomodoro-main/Pomodoro-main/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pomodoro/Pomodoro-main/Pomodoro-main/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pomodoro/Pomodoro-main/Pomodoro-main/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pomodoro/Pomodoro-main/Pomodoro-main/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pomodoro/Pomodoro-main/Pomodoro-main/app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pomodoro/Pomodoro-main/Pomodoro-main/app/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pomodoro/Pomodoro-main/Pomodoro-main/app/proguard-rules.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pomodoro/Pomodoro-main/Pomodoro-main/app/src/androidTest/java/no/uia/ikt205/pomodoro/ExampleInstrumentedTest.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pomodoro/Pomodoro-main/Pomodoro-main/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pomodoro/Pomodoro-main/Pomodoro-main/app/src/main/java/no/uia/ikt205/pomodoro/MainActivity.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pomodoro/Pomodoro-main/Pomodoro-main/app/src/main/java/no/uia/ikt205/pomodoro/util/Time.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pomodoro/Pomodoro-main/Pomodoro-main/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pomodoro/Pomodoro-main/Pomodoro-main/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pomodoro/Pomodoro-main/Pomodoro-main/app/src/main/res/layout/activity_main.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pomodoro/Pomodoro-main/Pomodoro-main/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pomodoro/Pomodoro-main/Pomodoro-main/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pomodoro/Pomodoro-main/Pomodoro-main/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pomodoro/Pomodoro-main/Pomodoro-main/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pomodoro/Pomodoro-main/Pomodoro-main/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pomodoro/Pomodoro-main/Pomodoro-main/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pomodoro/Pomodoro-main/Pomodoro-main/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pomodoro/Pomodoro-main/Pomodoro-main/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pomodoro/Pomodoro-main/Pomodoro-main/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pomodoro/Pomodoro-main/Pomodoro-main/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pomodoro/Pomodoro-main/Pomodoro-main/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pomodoro/Pomodoro-main/Pomodoro-main/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pomodoro/Pomodoro-main/Pomodoro-main/app/src/main/res/values-night/themes.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pomodoro/Pomodoro-main/Pomodoro-main/app/src/main/res/values/colors.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pomodoro/Pomodoro-main/Pomodoro-main/app/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pomodoro/Pomodoro-main/Pomodoro-main/app/src/main/res/values/themes.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pomodoro/Pomodoro-main/Pomodoro-main/app/src/test/java/no/uia/ikt205/pomodoro/ExampleUnitTest.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pomodoro/Pomodoro-main/Pomodoro-main/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pomodoro/Pomodoro-main/Pomodoro-main/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pomodoro/Pomodoro-main/Pomodoro-main/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pomodoro/Pomodoro-main/Pomodoro-main/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pomodoro/Pomodoro-main/Pomodoro-main/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pomodoro/Pomodoro-main/Pomodoro-main/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pomodoro/Pomodoro-main/Pomodoro-main/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../activity_main.xml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1nZT1oNvAdBWTiY6rURHN9e4oDc" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Pomodoro/Pomodoro-main (1)/Pomodoro-main" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="77751d07-9595-4bba-a3ba-6e25a1848b11" name="Default Changelist" comment="" />
+      <created>1611596400984</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1611596400984</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="8397" y="-3109" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1614102047783">
+      <screen x="7980" y="-3264" width="1920" height="999" />
+    </state>
+    <state x="8397" y="-3109" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.639/2220.-3240.1920.999/7980.-3264.1920.999@7980.-3264.1920.999" timestamp="1614102047783" />
+    <state x="8722" y="-3009" key="FileChooserDialogImpl" timestamp="1614101871874">
+      <screen x="7980" y="-3264" width="1920" height="999" />
+    </state>
+    <state x="8722" y="-3009" key="FileChooserDialogImpl/0.0.1280.639/2220.-3240.1920.999/7980.-3264.1920.999@7980.-3264.1920.999" timestamp="1614101871874" />
+  </component>
+</project>

@@ -1,2 +1,0 @@
-no/uia/ikt205/piano/BuildConfig.java
- no.uia.ikt205.piano.BuildConfig
