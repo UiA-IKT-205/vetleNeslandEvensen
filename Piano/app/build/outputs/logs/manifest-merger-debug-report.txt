@@ -1,0 +1,164 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Vetle\AndroidStudioProjects\ikt205\Piano\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\Vetle\AndroidStudioProjects\ikt205\Piano\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\Vetle\AndroidStudioProjects\ikt205\Piano\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\Vetle\AndroidStudioProjects\ikt205\Piano\app\src\main\AndroidManifest.xml:2:1-21:12
+MERGED from [androidx.core:core-ktx:1.3.2] C:\Users\Vetle\.gradle\caches\transforms-2\files-2.1\ecefc2168417aacdbc52de9af0ab6fe8\core-ktx-1.3.2\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.material:material:1.2.1] C:\Users\Vetle\.gradle\caches\transforms-2\files-2.1\274890771495425dbf660fd36713d136\material-1.2.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\Vetle\.gradle\caches\transforms-2\files-2.1\39d8b4fa6b1b892af43e9c6aa2865cec\constraintlayout-2.0.4\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\Vetle\.gradle\caches\transforms-2\files-2.1\0fb876221d267ca500377fa9495c6133\appcompat-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Vetle\.gradle\caches\transforms-2\files-2.1\340d7c68895af495f2c1a50eda773e6b\viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Vetle\.gradle\caches\transforms-2\files-2.1\9e4562a921eee6da616308b294890a18\fragment-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\Vetle\.gradle\caches\transforms-2\files-2.1\4f920da27af01c0a8453a740d600a602\appcompat-resources-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Vetle\.gradle\caches\transforms-2\files-2.1\f6edb7c830bbe4cc898fc85483805e2c\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Vetle\.gradle\caches\transforms-2\files-2.1\93e0789cd658711d3bc97b256651abfc\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\Vetle\.gradle\caches\transforms-2\files-2.1\5ba9faf69d206d16141424cb5ae496ef\transition-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Vetle\.gradle\caches\transforms-2\files-2.1\714139238454724e20597677343ff201\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Vetle\.gradle\caches\transforms-2\files-2.1\2ffe283ac7e9c01ce4825dd4426c6243\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Vetle\.gradle\caches\transforms-2\files-2.1\b0a31f807c1685882c0e675ff44fe886\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Vetle\.gradle\caches\transforms-2\files-2.1\e99b68a68826932ba82ce22fa3a492e4\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\Vetle\.gradle\caches\transforms-2\files-2.1\29f694615c963f98d148961992524e1b\activity-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Vetle\.gradle\caches\transforms-2\files-2.1\cee8199bba562b39bdd24018537bc165\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Vetle\.gradle\caches\transforms-2\files-2.1\7323845629e5ad81e5ce4c864660108c\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.3.2] C:\Users\Vetle\.gradle\caches\transforms-2\files-2.1\032e9f32d96bb1bc5ec7e3106e739499\core-1.3.2\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Vetle\.gradle\caches\transforms-2\files-2.1\128aeaf6627d894fd12df7cbecbdabee\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Vetle\.gradle\caches\transforms-2\files-2.1\9ea136cbed422d7c6c37c8c0ad289fd1\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Vetle\.gradle\caches\transforms-2\files-2.1\d066eeb275502a1edb667e8bf1f8d755\versionedparcelable-1.1.0\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\Vetle\.gradle\caches\transforms-2\files-2.1\a1a2f8f315510a575b59c73889fb447d\lifecycle-runtime-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\Vetle\.gradle\caches\transforms-2\files-2.1\c9e1afdb7b2d7b96197ccba309eb9de5\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Vetle\.gradle\caches\transforms-2\files-2.1\45e668e53d5dba772943a81d8c27a4a7\savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Vetle\.gradle\caches\transforms-2\files-2.1\8833580f369e7b97a007834e0c617663\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Vetle\.gradle\caches\transforms-2\files-2.1\67fe2624f8939097824b2a7ce7139ab4\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Vetle\.gradle\caches\transforms-2\files-2.1\6b6a64f73329db684dfc252cceb98118\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Vetle\.gradle\caches\transforms-2\files-2.1\cb2d8cd5ab2c3f7e0ddb347451a53966\core-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\Vetle\.gradle\caches\transforms-2\files-2.1\9ef9fac9c45b5a92757dfbe9934659c7\annotation-experimental-1.0.0\AndroidManifest.xml:17:1-24:12
+INJECTED from C:\Users\Vetle\AndroidStudioProjects\ikt205\Piano\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\Vetle\AndroidStudioProjects\ikt205\Piano\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\Vetle\AndroidStudioProjects\ikt205\Piano\app\src\main\AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from C:\Users\Vetle\AndroidStudioProjects\ikt205\Piano\app\src\main\AndroidManifest.xml:3:5-34
+		INJECTED from C:\Users\Vetle\AndroidStudioProjects\ikt205\Piano\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Vetle\AndroidStudioProjects\ikt205\Piano\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Vetle\AndroidStudioProjects\ikt205\Piano\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Vetle\AndroidStudioProjects\ikt205\Piano\app\src\main\AndroidManifest.xml:2:1-21:12
+		INJECTED from C:\Users\Vetle\AndroidStudioProjects\ikt205\Piano\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\Vetle\AndroidStudioProjects\ikt205\Piano\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Vetle\AndroidStudioProjects\ikt205\Piano\app\src\main\AndroidManifest.xml:2:1-21:12
+		INJECTED from C:\Users\Vetle\AndroidStudioProjects\ikt205\Piano\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Vetle\AndroidStudioProjects\ikt205\Piano\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\Users\Vetle\AndroidStudioProjects\ikt205\Piano\app\src\main\AndroidManifest.xml:5:5-19:19
+MERGED from [com.google.android.material:material:1.2.1] C:\Users\Vetle\.gradle\caches\transforms-2\files-2.1\274890771495425dbf660fd36713d136\material-1.2.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.2.1] C:\Users\Vetle\.gradle\caches\transforms-2\files-2.1\274890771495425dbf660fd36713d136\material-1.2.1\AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\Vetle\.gradle\caches\transforms-2\files-2.1\39d8b4fa6b1b892af43e9c6aa2865cec\constraintlayout-2.0.4\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\Vetle\.gradle\caches\transforms-2\files-2.1\39d8b4fa6b1b892af43e9c6aa2865cec\constraintlayout-2.0.4\AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.3.2] C:\Users\Vetle\.gradle\caches\transforms-2\files-2.1\032e9f32d96bb1bc5ec7e3106e739499\core-1.3.2\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.3.2] C:\Users\Vetle\.gradle\caches\transforms-2\files-2.1\032e9f32d96bb1bc5ec7e3106e739499\core-1.3.2\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Vetle\.gradle\caches\transforms-2\files-2.1\d066eeb275502a1edb667e8bf1f8d755\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Vetle\.gradle\caches\transforms-2\files-2.1\d066eeb275502a1edb667e8bf1f8d755\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.3.2] C:\Users\Vetle\.gradle\caches\transforms-2\files-2.1\032e9f32d96bb1bc5ec7e3106e739499\core-1.3.2\AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from C:\Users\Vetle\AndroidStudioProjects\ikt205\Piano\app\src\main\AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from C:\Users\Vetle\AndroidStudioProjects\ikt205\Piano\app\src\main\AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from C:\Users\Vetle\AndroidStudioProjects\ikt205\Piano\app\src\main\AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from C:\Users\Vetle\AndroidStudioProjects\ikt205\Piano\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from C:\Users\Vetle\AndroidStudioProjects\ikt205\Piano\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from C:\Users\Vetle\AndroidStudioProjects\ikt205\Piano\app\src\main\AndroidManifest.xml:11:9-43
+activity#no.uia.ikt205.piano.MainActivity
+ADDED from C:\Users\Vetle\AndroidStudioProjects\ikt205\Piano\app\src\main\AndroidManifest.xml:12:9-18:20
+	android:screenOrientation
+		ADDED from C:\Users\Vetle\AndroidStudioProjects\ikt205\Piano\app\src\main\AndroidManifest.xml:12:48-85
+	android:name
+		ADDED from C:\Users\Vetle\AndroidStudioProjects\ikt205\Piano\app\src\main\AndroidManifest.xml:12:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Vetle\AndroidStudioProjects\ikt205\Piano\app\src\main\AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Vetle\AndroidStudioProjects\ikt205\Piano\app\src\main\AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from C:\Users\Vetle\AndroidStudioProjects\ikt205\Piano\app\src\main\AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Vetle\AndroidStudioProjects\ikt205\Piano\app\src\main\AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from C:\Users\Vetle\AndroidStudioProjects\ikt205\Piano\app\src\main\AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from C:\Users\Vetle\AndroidStudioProjects\ikt205\Piano\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Vetle\AndroidStudioProjects\ikt205\Piano\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Vetle\AndroidStudioProjects\ikt205\Piano\app\src\main\AndroidManifest.xml
+MERGED from [androidx.core:core-ktx:1.3.2] C:\Users\Vetle\.gradle\caches\transforms-2\files-2.1\ecefc2168417aacdbc52de9af0ab6fe8\core-ktx-1.3.2\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.3.2] C:\Users\Vetle\.gradle\caches\transforms-2\files-2.1\ecefc2168417aacdbc52de9af0ab6fe8\core-ktx-1.3.2\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.material:material:1.2.1] C:\Users\Vetle\.gradle\caches\transforms-2\files-2.1\274890771495425dbf660fd36713d136\material-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.2.1] C:\Users\Vetle\.gradle\caches\transforms-2\files-2.1\274890771495425dbf660fd36713d136\material-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\Vetle\.gradle\caches\transforms-2\files-2.1\39d8b4fa6b1b892af43e9c6aa2865cec\constraintlayout-2.0.4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\Vetle\.gradle\caches\transforms-2\files-2.1\39d8b4fa6b1b892af43e9c6aa2865cec\constraintlayout-2.0.4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\Vetle\.gradle\caches\transforms-2\files-2.1\0fb876221d267ca500377fa9495c6133\appcompat-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\Vetle\.gradle\caches\transforms-2\files-2.1\0fb876221d267ca500377fa9495c6133\appcompat-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Vetle\.gradle\caches\transforms-2\files-2.1\340d7c68895af495f2c1a50eda773e6b\viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Vetle\.gradle\caches\transforms-2\files-2.1\340d7c68895af495f2c1a50eda773e6b\viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Vetle\.gradle\caches\transforms-2\files-2.1\9e4562a921eee6da616308b294890a18\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Vetle\.gradle\caches\transforms-2\files-2.1\9e4562a921eee6da616308b294890a18\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\Vetle\.gradle\caches\transforms-2\files-2.1\4f920da27af01c0a8453a740d600a602\appcompat-resources-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\Vetle\.gradle\caches\transforms-2\files-2.1\4f920da27af01c0a8453a740d600a602\appcompat-resources-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Vetle\.gradle\caches\transforms-2\files-2.1\f6edb7c830bbe4cc898fc85483805e2c\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Vetle\.gradle\caches\transforms-2\files-2.1\f6edb7c830bbe4cc898fc85483805e2c\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Vetle\.gradle\caches\transforms-2\files-2.1\93e0789cd658711d3bc97b256651abfc\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Vetle\.gradle\caches\transforms-2\files-2.1\93e0789cd658711d3bc97b256651abfc\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\Vetle\.gradle\caches\transforms-2\files-2.1\5ba9faf69d206d16141424cb5ae496ef\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\Vetle\.gradle\caches\transforms-2\files-2.1\5ba9faf69d206d16141424cb5ae496ef\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Vetle\.gradle\caches\transforms-2\files-2.1\714139238454724e20597677343ff201\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Vetle\.gradle\caches\transforms-2\files-2.1\714139238454724e20597677343ff201\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Vetle\.gradle\caches\transforms-2\files-2.1\2ffe283ac7e9c01ce4825dd4426c6243\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Vetle\.gradle\caches\transforms-2\files-2.1\2ffe283ac7e9c01ce4825dd4426c6243\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Vetle\.gradle\caches\transforms-2\files-2.1\b0a31f807c1685882c0e675ff44fe886\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Vetle\.gradle\caches\transforms-2\files-2.1\b0a31f807c1685882c0e675ff44fe886\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Vetle\.gradle\caches\transforms-2\files-2.1\e99b68a68826932ba82ce22fa3a492e4\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Vetle\.gradle\caches\transforms-2\files-2.1\e99b68a68826932ba82ce22fa3a492e4\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\Vetle\.gradle\caches\transforms-2\files-2.1\29f694615c963f98d148961992524e1b\activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\Vetle\.gradle\caches\transforms-2\files-2.1\29f694615c963f98d148961992524e1b\activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Vetle\.gradle\caches\transforms-2\files-2.1\cee8199bba562b39bdd24018537bc165\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Vetle\.gradle\caches\transforms-2\files-2.1\cee8199bba562b39bdd24018537bc165\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Vetle\.gradle\caches\transforms-2\files-2.1\7323845629e5ad81e5ce4c864660108c\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Vetle\.gradle\caches\transforms-2\files-2.1\7323845629e5ad81e5ce4c864660108c\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.3.2] C:\Users\Vetle\.gradle\caches\transforms-2\files-2.1\032e9f32d96bb1bc5ec7e3106e739499\core-1.3.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.2] C:\Users\Vetle\.gradle\caches\transforms-2\files-2.1\032e9f32d96bb1bc5ec7e3106e739499\core-1.3.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Vetle\.gradle\caches\transforms-2\files-2.1\128aeaf6627d894fd12df7cbecbdabee\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Vetle\.gradle\caches\transforms-2\files-2.1\128aeaf6627d894fd12df7cbecbdabee\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Vetle\.gradle\caches\transforms-2\files-2.1\9ea136cbed422d7c6c37c8c0ad289fd1\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Vetle\.gradle\caches\transforms-2\files-2.1\9ea136cbed422d7c6c37c8c0ad289fd1\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Vetle\.gradle\caches\transforms-2\files-2.1\d066eeb275502a1edb667e8bf1f8d755\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Vetle\.gradle\caches\transforms-2\files-2.1\d066eeb275502a1edb667e8bf1f8d755\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\Vetle\.gradle\caches\transforms-2\files-2.1\a1a2f8f315510a575b59c73889fb447d\lifecycle-runtime-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\Vetle\.gradle\caches\transforms-2\files-2.1\a1a2f8f315510a575b59c73889fb447d\lifecycle-runtime-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\Vetle\.gradle\caches\transforms-2\files-2.1\c9e1afdb7b2d7b96197ccba309eb9de5\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\Vetle\.gradle\caches\transforms-2\files-2.1\c9e1afdb7b2d7b96197ccba309eb9de5\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Vetle\.gradle\caches\transforms-2\files-2.1\45e668e53d5dba772943a81d8c27a4a7\savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Vetle\.gradle\caches\transforms-2\files-2.1\45e668e53d5dba772943a81d8c27a4a7\savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Vetle\.gradle\caches\transforms-2\files-2.1\8833580f369e7b97a007834e0c617663\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Vetle\.gradle\caches\transforms-2\files-2.1\8833580f369e7b97a007834e0c617663\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Vetle\.gradle\caches\transforms-2\files-2.1\67fe2624f8939097824b2a7ce7139ab4\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Vetle\.gradle\caches\transforms-2\files-2.1\67fe2624f8939097824b2a7ce7139ab4\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Vetle\.gradle\caches\transforms-2\files-2.1\6b6a64f73329db684dfc252cceb98118\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Vetle\.gradle\caches\transforms-2\files-2.1\6b6a64f73329db684dfc252cceb98118\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Vetle\.gradle\caches\transforms-2\files-2.1\cb2d8cd5ab2c3f7e0ddb347451a53966\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Vetle\.gradle\caches\transforms-2\files-2.1\cb2d8cd5ab2c3f7e0ddb347451a53966\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\Vetle\.gradle\caches\transforms-2\files-2.1\9ef9fac9c45b5a92757dfbe9934659c7\annotation-experimental-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\Vetle\.gradle\caches\transforms-2\files-2.1\9ef9fac9c45b5a92757dfbe9934659c7\annotation-experimental-1.0.0\AndroidManifest.xml:20:5-22:41
+INJECTED from C:\Users\Vetle\AndroidStudioProjects\ikt205\Piano\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Vetle\AndroidStudioProjects\ikt205\Piano\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Vetle\AndroidStudioProjects\ikt205\Piano\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Vetle\AndroidStudioProjects\ikt205\Piano\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Vetle\AndroidStudioProjects\ikt205\Piano\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Vetle\AndroidStudioProjects\ikt205\Piano\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Vetle\AndroidStudioProjects\ikt205\Piano\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Vetle\AndroidStudioProjects\ikt205\Piano\app\src\main\AndroidManifest.xml
