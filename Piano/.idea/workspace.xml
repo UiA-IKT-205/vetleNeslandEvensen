@@ -1,15 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="AndroidLayouts">
-    <shared>
-      <config />
-    </shared>
-  </component>
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c029c5ea-acf2-47a0-9401-37b10c29c27f" name="Default Changelist" comment="" />
+    <list default="true" id="9a3ebeba-6cb0-48e4-8bd5-d0b5b305e07a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,25 +19,36 @@
       <ProjectState />
     </projectState>
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="resourceFile" />
-      </list>
-    </option>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="Piano" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
   </component>
-  <component name="ProjectId" id="1oswPHpAC56tnUeJvubm7K21p8g" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1otLWRK3dvigqo9MmmQRg4G6Jh2" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="DeviceAndSnapshotComboBoxAction.selectedDevice" value="VirtualDevicePath@C:\Users\Vetle\.android\avd\Pixel_4a_API_30.avd" />
-    <property name="DeviceAndSnapshotComboBoxAction.selectionTime" value="2021-02-23T14:00:30.949412300Z" />
+    <property name="DeviceAndSnapshotComboBoxAction.selectionTime" value="2021-02-23T17:23:54.625104700Z" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.17" />
-    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunManager">
     <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
@@ -49,7 +58,7 @@
         <option name="Android.Gradle.BeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App">
       <module name="Piano.app" />
       <option name="DEPLOY" value="true" />
       <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
@@ -111,22 +120,18 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="c029c5ea-acf2-47a0-9401-37b10c29c27f" name="Default Changelist" comment="" />
-      <created>1614088584336</created>
+      <changelist id="9a3ebeba-6cb0-48e4-8bd5-d0b5b305e07a" name="Default Changelist" comment="" />
+      <created>1614100970658</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1614088584336</updated>
+      <updated>1614100970658</updated>
     </task>
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="8459" y="-3018" key="#PSD" timestamp="1614092846834">
+    <state x="8598" y="-1400" width="672" height="677" key="run.anything.popup" timestamp="1614101152268">
       <screen x="7980" y="-3264" width="1920" height="999" />
     </state>
-    <state x="8459" y="-3018" key="#PSD/0.0.1280.639/2220.-3240.1920.999/7980.-3264.1920.999@7980.-3264.1920.999" timestamp="1614092846834" />
-    <state x="8522" y="-3009" key="AndroidCreateResourceFileDialog" timestamp="1614091855630">
-      <screen x="7980" y="-3264" width="1920" height="999" />
-    </state>
-    <state x="8522" y="-3009" key="AndroidCreateResourceFileDialog/0.0.1280.639/2220.-3240.1920.999/7980.-3264.1920.999@7980.-3264.1920.999" timestamp="1614091855630" />
+    <state x="8598" y="-1400" width="672" height="677" key="run.anything.popup/0.0.1280.639/2220.-3240.1920.999/7980.-3264.1920.999@7980.-3264.1920.999" timestamp="1614101152268" />
   </component>
 </project>
