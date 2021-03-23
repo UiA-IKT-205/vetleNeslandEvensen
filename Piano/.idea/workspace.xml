@@ -103,7 +103,14 @@
     <property name="DeviceAndSnapshotComboBoxAction.selectedDevice" value="VirtualDevicePath@C:\Users\Vetle\.android\avd\Pixel_4a_API_30.avd" />
     <property name="DeviceAndSnapshotComboBoxAction.selectionTime" value="2021-02-23T17:23:54.625104700Z" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="last_opened_file_path" value="$USER_HOME$/OneDrive - Universitetet i Agder/4. semester/Applikasjonsutvikling IKT205/vetleNeslandEvensen-main/vetleNeslandEvensen-main/Piano" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="kotlin" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Vetle\vetleNeslandEvensen\Piano\app" />
+      <recent name="C:\Users\Vetle\vetleNeslandEvensen\Piano\app\build" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
@@ -196,9 +203,10 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="8074" y="-3170" width="1732" height="852" key="AVDManager" timestamp="1614168027883">
-      <screen x="7980" y="-3264" width="1920" height="1040" />
+    <state x="8074" y="-3174" width="1732" height="819" key="AVDManager" timestamp="1616413722802">
+      <screen x="7980" y="-3264" width="1920" height="999" />
     </state>
+    <state x="8074" y="-3174" width="1732" height="819" key="AVDManager/0.0.1280.639/2220.-3240.1920.999/7980.-3264.1920.999@7980.-3264.1920.999" timestamp="1616413722802" />
     <state x="8074" y="-3170" width="1732" height="852" key="AVDManager/0.0.1280.639/7980.-3264.1920.1040/2220.-3240.1920.1040@7980.-3264.1920.1040" timestamp="1614168027883" />
     <state x="8522" y="-2988" key="AndroidCreateResourceDirectoryDialog" timestamp="1614167224712">
       <screen x="7980" y="-3264" width="1920" height="1040" />
@@ -209,6 +217,38 @@
     </state>
     <state x="8722" y="-3009" key="FileChooserDialogImpl/0.0.1280.639/2220.-3240.1920.999/7980.-3264.1920.999@7980.-3264.1920.999" timestamp="1614102790869" />
     <state x="8722" y="-2999" key="FileChooserDialogImpl/0.0.1280.639/7980.-3264.1920.1040/2220.-3240.1920.1040@7980.-3264.1920.1040" timestamp="1614183748905" />
+    <state width="1877" height="268" key="GridCell.Tab.0.bottom" timestamp="1616450634720">
+      <screen x="7980" y="-3264" width="1920" height="999" />
+    </state>
+    <state width="1877" height="268" key="GridCell.Tab.0.bottom/0.0.1280.639/2220.-3240.1920.999/7980.-3264.1920.999@7980.-3264.1920.999" timestamp="1616450634720" />
+    <state width="1877" height="268" key="GridCell.Tab.0.center" timestamp="1616450634720">
+      <screen x="7980" y="-3264" width="1920" height="999" />
+    </state>
+    <state width="1877" height="268" key="GridCell.Tab.0.center/0.0.1280.639/2220.-3240.1920.999/7980.-3264.1920.999@7980.-3264.1920.999" timestamp="1616450634720" />
+    <state width="1877" height="268" key="GridCell.Tab.0.left" timestamp="1616450634719">
+      <screen x="7980" y="-3264" width="1920" height="999" />
+    </state>
+    <state width="1877" height="268" key="GridCell.Tab.0.left/0.0.1280.639/2220.-3240.1920.999/7980.-3264.1920.999@7980.-3264.1920.999" timestamp="1616450634719" />
+    <state width="1877" height="268" key="GridCell.Tab.0.right" timestamp="1616450634720">
+      <screen x="7980" y="-3264" width="1920" height="999" />
+    </state>
+    <state width="1877" height="268" key="GridCell.Tab.0.right/0.0.1280.639/2220.-3240.1920.999/7980.-3264.1920.999@7980.-3264.1920.999" timestamp="1616450634720" />
+    <state width="1877" height="268" key="GridCell.Tab.1.bottom" timestamp="1616450634721">
+      <screen x="7980" y="-3264" width="1920" height="999" />
+    </state>
+    <state width="1877" height="268" key="GridCell.Tab.1.bottom/0.0.1280.639/2220.-3240.1920.999/7980.-3264.1920.999@7980.-3264.1920.999" timestamp="1616450634721" />
+    <state width="1877" height="268" key="GridCell.Tab.1.center" timestamp="1616450634720">
+      <screen x="7980" y="-3264" width="1920" height="999" />
+    </state>
+    <state width="1877" height="268" key="GridCell.Tab.1.center/0.0.1280.639/2220.-3240.1920.999/7980.-3264.1920.999@7980.-3264.1920.999" timestamp="1616450634720" />
+    <state width="1877" height="268" key="GridCell.Tab.1.left" timestamp="1616450634720">
+      <screen x="7980" y="-3264" width="1920" height="999" />
+    </state>
+    <state width="1877" height="268" key="GridCell.Tab.1.left/0.0.1280.639/2220.-3240.1920.999/7980.-3264.1920.999@7980.-3264.1920.999" timestamp="1616450634720" />
+    <state width="1877" height="268" key="GridCell.Tab.1.right" timestamp="1616450634721">
+      <screen x="7980" y="-3264" width="1920" height="999" />
+    </state>
+    <state width="1877" height="268" key="GridCell.Tab.1.right/0.0.1280.639/2220.-3240.1920.999/7980.-3264.1920.999@7980.-3264.1920.999" timestamp="1616450634721" />
     <state x="8598" y="-1400" width="672" height="677" key="run.anything.popup" timestamp="1614101152268">
       <screen x="7980" y="-3264" width="1920" height="999" />
     </state>
