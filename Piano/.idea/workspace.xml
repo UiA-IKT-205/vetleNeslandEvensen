@@ -212,10 +212,10 @@
       <screen x="7980" y="-3264" width="1920" height="1040" />
     </state>
     <state x="8522" y="-2988" key="AndroidCreateResourceDirectoryDialog/0.0.1280.639/7980.-3264.1920.1040/2220.-3240.1920.1040@7980.-3264.1920.1040" timestamp="1614167224712" />
-    <state x="8722" y="-2999" key="FileChooserDialogImpl" timestamp="1614183748905">
-      <screen x="7980" y="-3264" width="1920" height="1040" />
+    <state x="8722" y="-3009" key="FileChooserDialogImpl" timestamp="1616697373453">
+      <screen x="7980" y="-3264" width="1920" height="999" />
     </state>
-    <state x="8722" y="-3009" key="FileChooserDialogImpl/0.0.1280.639/2220.-3240.1920.999/7980.-3264.1920.999@7980.-3264.1920.999" timestamp="1614102790869" />
+    <state x="8722" y="-3009" key="FileChooserDialogImpl/0.0.1280.639/2220.-3240.1920.999/7980.-3264.1920.999@7980.-3264.1920.999" timestamp="1616697373453" />
     <state x="8722" y="-2999" key="FileChooserDialogImpl/0.0.1280.639/7980.-3264.1920.1040/2220.-3240.1920.1040@7980.-3264.1920.1040" timestamp="1614183748905" />
     <state width="1877" height="268" key="GridCell.Tab.0.bottom" timestamp="1616450634720">
       <screen x="7980" y="-3264" width="1920" height="999" />
@@ -249,6 +249,14 @@
       <screen x="7980" y="-3264" width="1920" height="999" />
     </state>
     <state width="1877" height="268" key="GridCell.Tab.1.right/0.0.1280.639/2220.-3240.1920.999/7980.-3264.1920.999@7980.-3264.1920.999" timestamp="1616450634721" />
+    <state x="8534" y="-3031" key="Vcs.Push.Dialog.v2" timestamp="1616509746200">
+      <screen x="7980" y="-3264" width="1920" height="999" />
+    </state>
+    <state x="8534" y="-3031" key="Vcs.Push.Dialog.v2/0.0.1280.639/2220.-3240.1920.999/7980.-3264.1920.999@7980.-3264.1920.999" timestamp="1616509746200" />
+    <state x="8760" y="-2850" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1616509732247">
+      <screen x="7980" y="-3264" width="1920" height="999" />
+    </state>
+    <state x="8760" y="-2850" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1280.639/2220.-3240.1920.999/7980.-3264.1920.999@7980.-3264.1920.999" timestamp="1616509732247" />
     <state x="8598" y="-1400" width="672" height="677" key="run.anything.popup" timestamp="1614101152268">
       <screen x="7980" y="-3264" width="1920" height="999" />
     </state>
