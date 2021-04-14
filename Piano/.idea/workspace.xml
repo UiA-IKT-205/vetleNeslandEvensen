@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="NONE" />
   </component>
@@ -24,12 +29,15 @@
       <change afterPath="$PROJECT_DIR$/app/src/main/java/no/uia/ikt205/piano/FullTonePianoKeyFragment.kt" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/app/src/main/java/no/uia/ikt205/piano/MainActivity.kt" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/app/src/main/java/no/uia/ikt205/piano/PianoLayout.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/no/uia/ikt205/piano/SemiTonePianoKeyFragment.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/no/uia/ikt205/piano/data/Note.kt" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/pianokeyshape.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/fragment_full_tone_piano_key.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/fragment_piano.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/fragment_semi_tone_piano_key.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
@@ -76,6 +84,13 @@
       </state>
     </system>
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -88,7 +103,14 @@
     <property name="DeviceAndSnapshotComboBoxAction.selectedDevice" value="VirtualDevicePath@C:\Users\Vetle\.android\avd\Pixel_4a_API_30.avd" />
     <property name="DeviceAndSnapshotComboBoxAction.selectionTime" value="2021-02-23T17:23:54.625104700Z" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Pomodoro-main" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="kotlin" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Vetle\vetleNeslandEvensen\Piano\app" />
+      <recent name="C:\Users\Vetle\vetleNeslandEvensen\Piano\app\build" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
@@ -98,7 +120,7 @@
         <option name="Android.Gradle.BeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App">
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
       <module name="Piano.app" />
       <option name="DEPLOY" value="true" />
       <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
@@ -178,12 +200,55 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="8722" y="-3009" key="FileChooserDialogImpl" timestamp="1614101786813">
+    <state x="8074" y="-3174" width="1732" height="819" key="AVDManager" timestamp="1616413722802">
       <screen x="7980" y="-3264" width="1920" height="999" />
     </state>
-    <state x="8722" y="-3009" key="FileChooserDialogImpl/0.0.1280.639/2220.-3240.1920.999/7980.-3264.1920.999@7980.-3264.1920.999" timestamp="1614101786813" />
+    <state x="8074" y="-3174" width="1732" height="819" key="AVDManager/0.0.1280.639/2220.-3240.1920.999/7980.-3264.1920.999@7980.-3264.1920.999" timestamp="1616413722802" />
+    <state x="8074" y="-3170" width="1732" height="852" key="AVDManager/0.0.1280.639/7980.-3264.1920.1040/2220.-3240.1920.1040@7980.-3264.1920.1040" timestamp="1614168027883" />
+    <state x="8522" y="-2988" key="AndroidCreateResourceDirectoryDialog" timestamp="1614167224712">
+      <screen x="7980" y="-3264" width="1920" height="1040" />
+    </state>
+    <state x="8522" y="-2988" key="AndroidCreateResourceDirectoryDialog/0.0.1280.639/7980.-3264.1920.1040/2220.-3240.1920.1040@7980.-3264.1920.1040" timestamp="1614167224712" />
+    <state x="8722" y="-2999" key="FileChooserDialogImpl" timestamp="1614183748905">
+      <screen x="7980" y="-3264" width="1920" height="1040" />
+    </state>
+    <state x="8722" y="-3009" key="FileChooserDialogImpl/0.0.1280.639/2220.-3240.1920.999/7980.-3264.1920.999@7980.-3264.1920.999" timestamp="1614102790869" />
+    <state x="8722" y="-2999" key="FileChooserDialogImpl/0.0.1280.639/7980.-3264.1920.1040/2220.-3240.1920.1040@7980.-3264.1920.1040" timestamp="1614183748905" />
+    <state width="1877" height="268" key="GridCell.Tab.0.bottom" timestamp="1616450634720">
+      <screen x="7980" y="-3264" width="1920" height="999" />
+    </state>
+    <state width="1877" height="268" key="GridCell.Tab.0.bottom/0.0.1280.639/2220.-3240.1920.999/7980.-3264.1920.999@7980.-3264.1920.999" timestamp="1616450634720" />
+    <state width="1877" height="268" key="GridCell.Tab.0.center" timestamp="1616450634720">
+      <screen x="7980" y="-3264" width="1920" height="999" />
+    </state>
+    <state width="1877" height="268" key="GridCell.Tab.0.center/0.0.1280.639/2220.-3240.1920.999/7980.-3264.1920.999@7980.-3264.1920.999" timestamp="1616450634720" />
+    <state width="1877" height="268" key="GridCell.Tab.0.left" timestamp="1616450634719">
+      <screen x="7980" y="-3264" width="1920" height="999" />
+    </state>
+    <state width="1877" height="268" key="GridCell.Tab.0.left/0.0.1280.639/2220.-3240.1920.999/7980.-3264.1920.999@7980.-3264.1920.999" timestamp="1616450634719" />
+    <state width="1877" height="268" key="GridCell.Tab.0.right" timestamp="1616450634720">
+      <screen x="7980" y="-3264" width="1920" height="999" />
+    </state>
+    <state width="1877" height="268" key="GridCell.Tab.0.right/0.0.1280.639/2220.-3240.1920.999/7980.-3264.1920.999@7980.-3264.1920.999" timestamp="1616450634720" />
+    <state width="1877" height="268" key="GridCell.Tab.1.bottom" timestamp="1616450634721">
+      <screen x="7980" y="-3264" width="1920" height="999" />
+    </state>
+    <state width="1877" height="268" key="GridCell.Tab.1.bottom/0.0.1280.639/2220.-3240.1920.999/7980.-3264.1920.999@7980.-3264.1920.999" timestamp="1616450634721" />
+    <state width="1877" height="268" key="GridCell.Tab.1.center" timestamp="1616450634720">
+      <screen x="7980" y="-3264" width="1920" height="999" />
+    </state>
+    <state width="1877" height="268" key="GridCell.Tab.1.center/0.0.1280.639/2220.-3240.1920.999/7980.-3264.1920.999@7980.-3264.1920.999" timestamp="1616450634720" />
+    <state width="1877" height="268" key="GridCell.Tab.1.left" timestamp="1616450634720">
+      <screen x="7980" y="-3264" width="1920" height="999" />
+    </state>
+    <state width="1877" height="268" key="GridCell.Tab.1.left/0.0.1280.639/2220.-3240.1920.999/7980.-3264.1920.999@7980.-3264.1920.999" timestamp="1616450634720" />
+    <state width="1877" height="268" key="GridCell.Tab.1.right" timestamp="1616450634721">
+      <screen x="7980" y="-3264" width="1920" height="999" />
+    </state>
+    <state width="1877" height="268" key="GridCell.Tab.1.right/0.0.1280.639/2220.-3240.1920.999/7980.-3264.1920.999@7980.-3264.1920.999" timestamp="1616450634721" />
     <state x="8598" y="-1400" width="672" height="677" key="run.anything.popup" timestamp="1614101152268">
       <screen x="7980" y="-3264" width="1920" height="999" />
     </state>

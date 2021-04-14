@@ -29,10 +29,12 @@ class FullTonePianoKeyFragment : Fragment() {
         inflater: LayoutInflater, container: ViewGroup?,
         savedInstanceState: Bundle?
     ): View? {
+
        _binding = FragmentFullTonePianoKeyBinding.inflate(inflater)
         val view = binding.root
 
         view.fullToneKey.setOnTouchListener(object : View.OnTouchListener{
+            var startTime = 0
             override fun onTouch(v: View?, event: MotionEvent?): Boolean {
                 when(event?.action){
                     MotionEvent.ACTION_DOWN -> this@FullTonePianoKeyFragment.onKeyDown?.invoke(note)

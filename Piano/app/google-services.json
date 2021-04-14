@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "729934984295",
+    "project_id": "piano-18267",
+    "storage_bucket": "piano-18267.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:729934984295:android:c6201eca7c7c9cdc8150c2",
+        "android_client_info": {
+          "package_name": "no.uia.ikt205.piano"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "729934984295-rb033s4sllo7dkecse93rv6a709t0ft7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArDenZNf5lwcc39TqdVZww0kExTnpr5dM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "729934984295-rb033s4sllo7dkecse93rv6a709t0ft7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

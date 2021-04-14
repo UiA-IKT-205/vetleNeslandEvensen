@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "377872232165",
+    "firebase_url": "https://todo-list-ec2ba-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "todo-list-ec2ba",
+    "storage_bucket": "todo-list-ec2ba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:377872232165:android:6ad3f3fd4b3de5d1e92e0c",
+        "android_client_info": {
+          "package_name": "no.uia.ikt205.todolist"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "377872232165-vltfeg92ehlobpvm3rlhvnj6sdo303n8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvfvA23ICr2n1t2f73nZ02f4mpu-re0J0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "377872232165-vltfeg92ehlobpvm3rlhvnj6sdo303n8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

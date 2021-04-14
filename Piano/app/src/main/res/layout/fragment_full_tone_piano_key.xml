@@ -10,7 +10,7 @@
         android:id="@+id/fullToneKey"
         android:layout_width="60dp"
         android:layout_height="match_parent"
-        android:backgroundTint="@color/black"
+        android:backgroundTint="@color/white"
         android:background="@drawable/pianokeyshape"
         app:layout_constraintTop_toBottomOf="parent"
         app:layout_constraintTop_toTopOf="parent"
