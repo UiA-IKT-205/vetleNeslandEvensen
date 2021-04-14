@@ -30,6 +30,7 @@ class DBHandler(val context: Context) : SQLiteOpenHelper(context, DB_NAME, null,
     }
 
 
+    // Add task
     fun addToDo(toDo: ToDo): Boolean {
         val db:SQLiteDatabase = writableDatabase
         val cv = ContentValues()
@@ -38,6 +39,7 @@ class DBHandler(val context: Context) : SQLiteOpenHelper(context, DB_NAME, null,
         return result!=(-1).toLong()
     }
 
+    // Update task
     fun updateToDo(toDo: ToDo) {
         val db:SQLiteDatabase = writableDatabase
         val cv = ContentValues()
@@ -45,6 +47,7 @@ class DBHandler(val context: Context) : SQLiteOpenHelper(context, DB_NAME, null,
         db.update(TABLE_TODO,cv,"$COL_ID=?", arrayOf(toDo.id.toString()))
     }
 
+    // Delete task
     fun deleteToDo(todoId: Long) {
         val db:SQLiteDatabase = writableDatabase
         db.delete(TABLE_TODO_ITEM, "$COL_TODO_ID=?", arrayOf(todoId.toString()))
@@ -85,6 +88,7 @@ class DBHandler(val context: Context) : SQLiteOpenHelper(context, DB_NAME, null,
         return result
     }
 
+    // Add subtask
     fun addToDoItem(item : ToDoItem) : Boolean {
         val db: SQLiteDatabase = writableDatabase
         val cv = ContentValues()
@@ -99,6 +103,7 @@ class DBHandler(val context: Context) : SQLiteOpenHelper(context, DB_NAME, null,
         return result != (-1).toLong()
     }
 
+    // Update subtask
     fun updateToDoItem(item : ToDoItem){
         val db: SQLiteDatabase = writableDatabase
         val cv = ContentValues()
@@ -109,6 +114,7 @@ class DBHandler(val context: Context) : SQLiteOpenHelper(context, DB_NAME, null,
         db.update(TABLE_TODO_ITEM,cv,"$COL_ID=?", arrayOf(item.id.toString()))
     }
 
+    // Delete subtask
     fun deleteToDoItem(itemId: Long) {
         val db: SQLiteDatabase = writableDatabase
         db.delete(TABLE_TODO_ITEM, "$COL_ID=?", arrayOf(itemId.toString()))

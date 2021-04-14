@@ -1,2 +1,0 @@
-# vetleNeslandEvensen
-Prosjekter
